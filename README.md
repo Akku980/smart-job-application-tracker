@@ -4,7 +4,9 @@ A full-stack web application to track job applications, monitor interview progre
 
 Built this because tracking applications across random notes and spreadsheets was getting messy. Wanted something where I could actually see patterns — which companies respond, which platforms work, how many applications I'm sending per month.
 
-🔗 **Repository:** https://github.com/Akku980/smart-job-application-tracker
+🔗 **Live Demo:** https://akku980.github.io/smart-job-application-tracker/
+
+🗂️ **Repository:** https://github.com/Akku980/smart-job-application-tracker
 
 ---
 
